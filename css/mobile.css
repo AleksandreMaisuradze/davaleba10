@@ -28,9 +28,22 @@
 @media (max-width: 450px) {
 
     /* Section1  */
-    
+
     .section1_img {
         height: 240px;
     }
 
+    /* Section2  */
+
+    .section2_img {
+        height: 240px;
+    }
+
+    .section2_div_title {
+        font-size: 16px;
+    }
+
+    .section2_div_text {
+        font-size: 14px;
+    }
 }

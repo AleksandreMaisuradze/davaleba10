@@ -4,11 +4,28 @@
     .header_ul {
         column-gap: 22px;
     }
+
     /* Section1  */
     .section1_text_title {
         font-size: 40px;
     }
+
     .section1_img {
+        height: 320px;
+    }
+
+    /* Section2  */
+    .section2 {
+        padding: 24px;
+    }
+
+    .section2_div {
+        flex-direction: column;
+        text-align: center;
+
+    }
+
+    .section2_img {
         height: 320px;
     }
 }
