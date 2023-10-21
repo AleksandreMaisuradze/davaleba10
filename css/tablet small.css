@@ -1,0 +1,7 @@
+@media (max-width: 750px) {
+
+    /* Header  */
+    .header_ul {
+        column-gap: 22px;
+    }
+}
