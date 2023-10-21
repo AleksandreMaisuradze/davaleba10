@@ -13,4 +13,24 @@
         display: none;
     }
 
+    /* section1  */
+
+    .section1_text {
+        margin-bottom: 24px;
+    }
+
+    .section1_button {
+        margin-bottom: 24px;
+    }
+}
+
+
+@media (max-width: 450px) {
+
+    /* Section1  */
+    
+    .section1_img {
+        height: 240px;
+    }
+
 }

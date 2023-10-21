@@ -1,7 +1,14 @@
-@media (max-width: 750px) {
+@media (max-width: 744px) {
 
     /* Header  */
     .header_ul {
         column-gap: 22px;
+    }
+    /* Section1  */
+    .section1_text_title {
+        font-size: 40px;
+    }
+    .section1_img {
+        height: 320px;
     }
 }
