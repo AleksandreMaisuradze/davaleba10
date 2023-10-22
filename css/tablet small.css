@@ -28,4 +28,26 @@
     .section2_img {
         height: 320px;
     }
+
+    /* section3  */
+
+    .section3_main_div {
+        flex-direction: column;
+    }
+
+    .section3_items {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        column-gap: 10px;
+    }
+
+    .circle_title {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .items_text {
+        text-align: center;
+    }
 }

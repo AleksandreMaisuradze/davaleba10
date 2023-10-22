@@ -56,4 +56,9 @@
         display: flex;
         column-gap: 15%;
     }
+     /* section3  */
+
+     .section3_main_div {
+        margin: 39px 32px;
+     }
 }
