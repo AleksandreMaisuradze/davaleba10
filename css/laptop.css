@@ -56,9 +56,24 @@
         display: flex;
         column-gap: 15%;
     }
-     /* section3  */
 
-     .section3_main_div {
+    /* section3  */
+
+    .section3_main_div {
         margin: 39px 32px;
-     }
+    }
+
+    /* footer  */
+    .footer_div {
+        padding: 45px 43.4% 45px 32px;
+        flex-direction: column;
+    }
+
+    .footer_logo {
+        margin-bottom: 32px;
+    }
+
+    .subscribe {
+        display: none;
+    }
 }
