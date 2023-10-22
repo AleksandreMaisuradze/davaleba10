@@ -1,6 +1,24 @@
+@media (max-width: 620px) {
+
+    /* footer  */
+
+    footer {
+        padding: 32px 24px;
+    }
+
+    .footer_logo {
+        margin-inline: auto;
+    }
+
+    .footer_nav_div {
+        justify-content: center;
+    }
+}
+
 @media (max-width: 565px) {
 
     /* Header  */
+
     .fa-bars {
         display: block;
     }
@@ -45,20 +63,5 @@
 
     .section2_div_text {
         font-size: 14px;
-    }
-}
-
-/* footer  */
-@media (max-width: 620px) {
-    .footer_div {
-        padding: 32px 24px;
-    }
-
-    .footer_logo {
-        margin-inline: auto;
-    }
-
-    .footer_nav_div {
-        justify-content: center;
     }
 }
